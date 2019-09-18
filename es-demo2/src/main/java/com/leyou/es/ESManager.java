@@ -197,5 +197,10 @@ public class ESManager {
         client.close();
 		 System.out.println("张三");
     }
+	@Test
+    public void testgithub() throws Exception{
+        client.close();
+		 System.out.println("张三");
+    }
 
 }
