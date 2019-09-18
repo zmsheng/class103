@@ -195,6 +195,7 @@ public class ESManager {
     @After
     public void end() throws Exception{
         client.close();
+		 System.out.println("张三");
     }
 
 }
