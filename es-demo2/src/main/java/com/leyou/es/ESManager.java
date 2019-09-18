@@ -204,11 +204,4 @@ public class ESManager {
 		 System.out.println("李四");
     }
 
-
-    public void testgithub() throws Exception{
-        client.close();
-		 System.out.println("张三");
-    }
->>>>>>> f1792dc21f4e3db795d7411874b65633e736db49
-
 }
