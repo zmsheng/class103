@@ -200,8 +200,8 @@ public class ESManager {
 	@Test
 
     public void testgithubLS() throws Exception{
-        client.close();
 		 System.out.println("李四");
+		 System.out.println("张三？？");
     }
 
 }
